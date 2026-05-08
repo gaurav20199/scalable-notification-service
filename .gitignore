@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 scalable-notification-service.iml
+volumes
 
 ### STS ###
 .apt_generated
